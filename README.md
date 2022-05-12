@@ -1,8 +1,8 @@
 ## Olá!!! Eu sou a Mariane
-<!-- - 🔭 I’m currently working on ... -->
+<!-- - 🔭 I’m currently working on ... 
 - 🌱 Estudando HTML
-<!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: ela/dela
+- 📫 How to reach me: ... 
+- 😄 Pronouns: ela/dela -->
 
 <div align="center">
   <a href="https://github.com/MarianeTelesBento">
