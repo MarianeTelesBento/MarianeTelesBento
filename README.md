@@ -1,6 +1,7 @@
 ## Olá!!! Eu sou a Mariane
+-🌱: Atualmente estudando: HTML, CSS e JavaScript
 <!-- - 🔭 I’m currently working on ... 
-- 🌱 Estudando HTML
+🌱: Atualmente estudando: HTML, CSS e JavaScript
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ela/dela -->
 
