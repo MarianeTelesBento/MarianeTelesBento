@@ -1,4 +1,7 @@
 ## Olá!!! Eu sou a Mariane
+
+![snake gif](https://github.com/MarianeTelesBento/MarianeTelesBento/blob/output/github-contribution-grid-snake.gif)
+
 -🌱: Atualmente estudando: HTML, CSS e JavaScript
 <!-- - 🔭 I’m currently working on ... 
 🌱: Atualmente estudando: HTML, CSS e JavaScript
