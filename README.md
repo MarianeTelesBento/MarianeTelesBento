@@ -20,22 +20,6 @@
 
 ![snake gif](https://github.com/MarianeTelesBento/MarianeTelesBento/blob/output/github-contribution-grid-snake.gif)
 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg](https://github.com/MarianeTelesBento/MarianeTelesBento/blob/output/github-contribution-grid-snake.gif)"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg](https://github.com/MarianeTelesBento/MarianeTelesBento/blob/output/github-contribution-grid-snake.gif)"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="[https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg](https://github.com/MarianeTelesBento/MarianeTelesBento/blob/output/github-contribution-grid-snake.gif)"
-  />
-</picture>
-
 <div>
   <a href="https://www.linkedin.com/in/mariane-teles-bento-66004522a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://linktr.ee/marianetelesbento"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
