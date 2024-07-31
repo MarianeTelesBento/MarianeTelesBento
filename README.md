@@ -16,6 +16,7 @@
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mari-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://w7.pngwing.com/pngs/465/779/png-transparent-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle-computer-thumbnail.png)">
 </div>
 
 ![snake gif](https://github.com/MarianeTelesBento/MarianeTelesBento/blob/output/github-contribution-grid-snake.gif)
