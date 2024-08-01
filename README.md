@@ -18,7 +18,7 @@
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-![snake gif](https://github.com/MarianeTelesBento/MarianeTelesBento/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 <div>
   <a href="https://www.linkedin.com/in/mariane-teles-bento-66004522a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
