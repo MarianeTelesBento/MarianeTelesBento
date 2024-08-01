@@ -24,7 +24,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![snake gif](https://github.com/MarianeTelesBento/MarianeTelesBento/blob/output/github-contribution-grid-snake.svg)
+
 
 <div>
   <a href="https://www.linkedin.com/in/mariane-teles-bento-66004522a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
