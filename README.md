@@ -3,14 +3,14 @@
 -🌱: Atualmente estudando: HTML, CSS e JavaScript
 <!-- - 🔭 I’m currently working on ... 
 🌱: Atualmente estudando: HTML, CSS e JavaScript
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ela/dela -->
+- 📫 How to reach me: ... -->
+- 😄 Pronouns: ela/dela
 
- <img align="center" alt="Mari-Js" height="100%" width="40%" src="https://i.pinimg.com/originals/ec/55/c4/ec55c4dcfb41ceb99210b1e2b73ded71.png">
+<img align="center" alt="Mari-Js" height="100%" width="40%" src="https://i.pinimg.com/originals/ec/55/c4/ec55c4dcfb41ceb99210b1e2b73ded71.png">
 
 <div align="center">
   <a href="https://github.com/MarianeTelesBento">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarianeTelesBento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>%
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarianeTelesBento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianeTelesBento&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
