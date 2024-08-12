@@ -6,7 +6,7 @@
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ela/dela -->
 
- <img align="center" alt="Mari-Js" height="30" width="40" src="https://i.pinimg.com/originals/ec/55/c4/ec55c4dcfb41ceb99210b1e2b73ded71.png">
+ <img align="center" alt="Mari-Js" height="100%" width="40" src="https://i.pinimg.com/originals/ec/55/c4/ec55c4dcfb41ceb99210b1e2b73ded71.png">
 
 <div align="center">
   <a href="https://github.com/MarianeTelesBento">
