@@ -1,5 +1,4 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Mariane, and my nickname is Mari!
 
 <div>
 <a href="https://github.com/marianetelesbento">
