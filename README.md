@@ -16,7 +16,7 @@
 </div>
 
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="marianetelesbento Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=marianetelesbento&bg_color=000&color=52f506&line=8B00FF&point=FFFFFF&hide_border=true" style="width: 100%;">
+    <img alt="marianetelesbento Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=marianetelesbento&bg_color=000&color=FF6EC7&line=#FF1CAE&point=FFFFFF&hide_border=true" style="width: 100%;">
   </a>
 
 <picture align="center">
