@@ -17,4 +17,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 </div>
 
-![Snake animation](https://github.com/marianetelesbento/marianetelesbento/blob/output/github-contribution-grid-snake.svg)
