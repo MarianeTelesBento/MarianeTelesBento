@@ -1,8 +1,9 @@
 ## My name is Mariane :)
 
-<div <div style="display: flex; align-items: center; justify-content: center;">>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianetelesbento&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marianetelesbento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>
+    <a href="https://github.com/marianetelesbento">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianetelesbento&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marianetelesbento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
