@@ -3,7 +3,7 @@
 - 🎓 Systems Analysis and Development Student  
 - 💻 Back-End Developer  
 - 🌐 Full-Stack Enthusiast  
-- 🧑‍💼 Freelancer  
+- 🧑‍💼 Freelancer
 
 <div>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianetelesbento&layout=compact&langs_count=7&theme=dracula"/>
@@ -22,15 +22,11 @@
 
 ## 🚀 Projetos em Destaque
 
-- 💰 [Fintech App](https://marianetelesbento.github.io/Fintech/)  
-  Sistema web responsivo para registrar gastos e organizar finanças pessoais. Feito com HTML, CSS, JS e Bootstrap.
+- 🥋 [BJJ Gerenciamento](https://github.com/MarianeTelesBento/BJJGerenciamento.git)  
+  Responsive web application for managing Jiu-Jitsu academies, including students, schedules, and training plans.
 
-- 🥋 [BJJ Gerenciamento (em andamento)]()  
-  Projeto TCC voltado para academias de Jiu-Jitsu com ASP.NET e SQL Server.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariane%20Teles%20Bento-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariane-teles-bento-66004522a/)
 
-
-📫 **Contato**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianetelesbento)  
 
 
 <!--<picture align="center">
